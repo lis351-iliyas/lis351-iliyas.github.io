@@ -1,0 +1,19 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    fallback: serif;
+}
+
+body {
+    margin: 50px;
+    background-color: #9F93FF;
+}
+
+nav {
+    font-family: "Comic Sans MS", Comic Sans, monospace;
+    font-size: 18px;
+}
+
+img{
+    height: auto;
+    width: 30%;
+}
